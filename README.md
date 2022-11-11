@@ -1,5 +1,5 @@
 # ds-factory-cnn
-Source code for paper [Introduction to Convolutional neural networks](https://www.data-science-factory.com/) by Data Science Factory
+Source code for paper [Introduction to Convolutional neural networks](https://www.data-science-factory.com/post/introduction-to-convolutional-neural-networks) by Data Science Factory
 
 _______________________________________________________________
 ### Prerequisites
